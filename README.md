@@ -1,1 +1,1 @@
-# college-website.github.io
+# college website
